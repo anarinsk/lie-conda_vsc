@@ -1,4 +1,4 @@
-**Python + Visual Studio Code**
+**Python &#43; Visual Studio Code**
 
 
 2018-11-23
@@ -250,5 +250,5 @@ conda env create -f 환경이름.yml
 
 :feet:Jun Sok Huhh | :house:[lostineonomics.com](http://lostineconomics.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDUzNjIyMThdfQ==
+eyJoaXN0b3J5IjpbMTgxODQ3NjkwNiwtMTYwNTM2MjIxOF19
 -->
