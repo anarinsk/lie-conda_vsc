@@ -4,7 +4,7 @@
 2018-11-23
 Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com), also posted at [LINK](https://danbi-ncsoft.github.io/etc/2018/11/26/conda_vsc.html)
 
-이 글은 좀 낡았다. 대신 [여기](https://danbi-ncsoft.github.io/etc/2019/11/07/viva-vsc.html)
+- 이 글은 좀 낡았다. 대신 [여기](https://danbi-ncsoft.github.io/etc/2019/11/07/viva-vsc.html)를 참고하시라. 
 
 # 들어가며 
 아마 각자 알아서 잘 쓰는 Python 설정이 있을 것이다. 그대로 잘 쓰면 되겠다. 하지만 막 Python으로 코딩을 시작하려는 사람이 있다면 이런 글도 조금은 도움이 되지 않을까 한다. 이 가이드의 목표는 다음과 같다. 
@@ -251,6 +251,6 @@ conda env create -f 환경이름.yml
 
 :feet:Jun Sok Huhh | :house:[lostineonomics.com](http://lostineconomics.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNTA1Mzg5MCwxODE4NDc2OTA2LC0xNj
-A1MzYyMjE4XX0=
+eyJoaXN0b3J5IjpbNzg4NjY1NzQ1LDE4MTg0NzY5MDYsLTE2MD
+UzNjIyMThdfQ==
 -->
